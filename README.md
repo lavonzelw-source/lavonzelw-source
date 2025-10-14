@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Lavonzel, an IT Professional👋
 
-<!--
-**lavonzelw-source/lavonzelw-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi, I'm Lavonzel, an <https://www.linkedin.com/in/lavonzel-williams-6aa455239/">IT Professional</a>☺</h1>
 
-Here are some ideas to get you started:
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>osTicket (Help Desk Ticketing System)</b>
+  
+  - [osTicket: Post-Installation Configuration]
+  - [osTicket: Ticket Lifecycle Examples]
+- <b>Microsoft Azure</b>
+  
+<h2>🤳Connect with me:</h2>
+[linkedin]:https://www.linkedin.com/in/lavonzel-williams-6aa455239/
